@@ -1,0 +1,1 @@
+![Alt text](with_connection_pool.png)
